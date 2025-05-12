@@ -1,2 +1,6 @@
-# MyFirstRepo
-My first repository
+# 機械学習・ディープラーニングの実習
+
+* データの収集
+* PyTorch
+* 学習
+* 推論
